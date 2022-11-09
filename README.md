@@ -22,3 +22,16 @@ The repository is organized as follows:
 - `utils.py`: utility functions;  
 - `data`: raw dataset in /data/train, and extracted dataset in /data/user_data.  
  
+## Citation
+
+```
+@article{hu2022btg,
+  title={BTG: A Bridge to Graph machine learning in telecommunications fraud detection},
+  author={Hu, Xinxin and Chen, Hongchang and Liu, Shuxin and Jiang, Haocong and Chu, Guanghan and Li, Ran},
+  journal={Future Generation Computer Systems},
+  volume={137},
+  pages={274--287},
+  year={2022},
+  publisher={Elsevier}
+}
+```
